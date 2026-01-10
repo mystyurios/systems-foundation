@@ -52,18 +52,21 @@ build cmake_object_order_depends_target_HelloWorld: phony || CMakeFiles/HelloWor
 build CMakeFiles/HelloWorld.dir/src/Main.cpp.o: CXX_COMPILER__HelloWorld_unscanned_Debug /home/yuri/GPU$ programming/learning_cpp/HelloWorld/src/Main.cpp || cmake_object_order_depends_target_HelloWorld
   DEP_FILE = CMakeFiles/HelloWorld.dir/src/Main.cpp.o.d
   FLAGS = -Wall -Werror -std=c++14 -g
+  INCLUDES = -I"/home/yuri/GPU programming/learning_cpp/HelloWorld/include"
   OBJECT_DIR = CMakeFiles/HelloWorld.dir
   OBJECT_FILE_DIR = CMakeFiles/HelloWorld.dir/src
 
 build CMakeFiles/HelloWorld.dir/src/log.cpp.o: CXX_COMPILER__HelloWorld_unscanned_Debug /home/yuri/GPU$ programming/learning_cpp/HelloWorld/src/log.cpp || cmake_object_order_depends_target_HelloWorld
   DEP_FILE = CMakeFiles/HelloWorld.dir/src/log.cpp.o.d
   FLAGS = -Wall -Werror -std=c++14 -g
+  INCLUDES = -I"/home/yuri/GPU programming/learning_cpp/HelloWorld/include"
   OBJECT_DIR = CMakeFiles/HelloWorld.dir
   OBJECT_FILE_DIR = CMakeFiles/HelloWorld.dir/src
 
 build CMakeFiles/HelloWorld.dir/src/multiply.cpp.o: CXX_COMPILER__HelloWorld_unscanned_Debug /home/yuri/GPU$ programming/learning_cpp/HelloWorld/src/multiply.cpp || cmake_object_order_depends_target_HelloWorld
   DEP_FILE = CMakeFiles/HelloWorld.dir/src/multiply.cpp.o.d
   FLAGS = -Wall -Werror -std=c++14 -g
+  INCLUDES = -I"/home/yuri/GPU programming/learning_cpp/HelloWorld/include"
   OBJECT_DIR = CMakeFiles/HelloWorld.dir
   OBJECT_FILE_DIR = CMakeFiles/HelloWorld.dir/src
 

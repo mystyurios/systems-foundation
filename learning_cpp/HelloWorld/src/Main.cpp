@@ -1,8 +1,9 @@
 #include<iostream>
+#include "Log.h"
 using namespace std ; 
 void log(const char*);
 
- int multiply(int a , int b);//{
+// int multiply(int a , int b);{
 //     log("multiply");
 //     return a * b; 
 // }

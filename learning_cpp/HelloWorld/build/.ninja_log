@@ -1,7 +1,9 @@
 # ninja log v5
-3	172	1768021912283038990	CMakeFiles/HelloWorld.dir/src/log.cpp.o	bb86a3161a2f6b3c
-3	171	1768021912283038990	CMakeFiles/HelloWorld.dir/src/multiply.cpp.o	8f1843a3875c1e1a
-172	220	1768021912331320760	HelloWorld	f2ad3b3528e22fa5
-2	171	1768021912282039010	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	92d7f88ba08ee61c
 1	129	1768022249272796141	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	92d7f88ba08ee61c
 129	170	1768022249314068319	HelloWorld	f2ad3b3528e22fa5
+3	171	1768021912283038990	CMakeFiles/HelloWorld.dir/src/multiply.cpp.o	8f1843a3875c1e1a
+1	142	1768023945141807303	CMakeFiles/HelloWorld.dir/src/log.cpp.o	bb86a3161a2f6b3c
+2	136	1768024758728703679	CMakeFiles/HelloWorld.dir/src/log.cpp.o	6192985b976c6884
+1	137	1768024758729703420	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	d83014844c9a69f
+2	137	1768024758729703420	CMakeFiles/HelloWorld.dir/src/multiply.cpp.o	c91f395ca5ed61ad
+137	179	1768024758771830620	HelloWorld	f2ad3b3528e22fa5
