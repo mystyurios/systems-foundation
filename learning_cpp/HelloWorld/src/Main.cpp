@@ -1,5 +1,6 @@
 #include<iostream>
 #include "Log.h"
+#include<string>
 using namespace std ; 
 void log(const char*);
 
@@ -17,6 +18,17 @@ int main(){
     multiplyAndlog(3,2);
     multiplyAndlog(8,5);
     multiplyAndlog(90,45);
-  //  std::cin.get(); used for the console in windows to stay a little bit longer 
+  //  std::cin.get(); used for the console in windows to stay a little bit longer
+    cout<<"enter password : "<<endl;
+    string password ;
+    cin >> password ;
+    cout<<endl;
+    if (password == "1234"){
+      cout<<"password is correct "<<endl;
+    }
+    else
+    {
+      cout << "error!" <<endl;
+    }
     return 0 ;
 }
