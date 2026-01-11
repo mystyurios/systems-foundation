@@ -1,0 +1,21 @@
+january 10th 2026
+
+my learnings :
+
+1. understood functions - wrote programs 
+
+2. understood header files and applied concept into programming 
+
+3. understood what is pragma once 
+
+4. understood conditionals and wrote 2 programs 
+
+5. learned ascii value of characters 
+
+6. understood to compare alphabets to deduce casing of the letter 
+
+7.learned decision block flowchart the diamond
+
+8. understood what is cpu and gpu 
+
+9. understood the basic difference between gpu and cpu
