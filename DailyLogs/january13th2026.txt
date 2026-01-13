@@ -1,0 +1,15 @@
+January 13th 2026 
+
+my learning :
+
+1. understood basics of pointer - did basic examples using void and int pointer  
+
+2. understood difference between 32 bit and 64 bit architecture  
+
+3. understood different memory layout in 32 and 64 bit compiler only long datatype changes 
+
+4. understood what is camel case and how it helps in standardization  
+
+5. nested loops - 10 problems 
+
+
