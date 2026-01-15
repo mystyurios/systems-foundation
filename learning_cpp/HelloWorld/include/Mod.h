@@ -1,2 +1,2 @@
 #pragma once 
-int modify(int* a );
+int modify(int& a);

@@ -45,7 +45,7 @@ int main(){
 
   int a = 2;
   cout<< "value of a currently is : "<<a<<endl;
-  modify(&a);
+  modify(a);
  
   cout<<a<<endl;
   return 0 ;
