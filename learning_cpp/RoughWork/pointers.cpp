@@ -7,7 +7,11 @@ int main(){
 
 	cout<<ptr<<endl;
 
-	cout<<*ptr; // this  is dereferencing
+	cout<<*ptr<<endl; // this  is dereferencing
+
+	*ptr = 100 ; //modifying variable using pointer 
+
+	cout<<var;
 	return 0 ;
 }
 
