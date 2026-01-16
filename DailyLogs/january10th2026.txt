@@ -1,5 +1,3 @@
-january 10th 2026
-
 my learnings :
 
 1. understood functions - wrote programs 
